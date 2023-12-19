@@ -1,5 +1,5 @@
 # Empathize
-A ADHD-awareness app for parents. 
+A ADHD-awareness app prototype for parents. 
 
 For parents of children with ADHD, understanding their child's feelings and the resasons behind their behavior can be quite challenging. With Empathize our goal was to provide assistance for this problem. 
 
